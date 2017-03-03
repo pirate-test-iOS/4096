@@ -514,8 +514,8 @@
 				GCC_PREFIX_HEADER = "m2048/m2048-Prefix.pch";
 				INFOPLIST_FILE = "m2048/m2048-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "1a4f430f-b5a9-4a0a-be9f-84ff122d2d96";
-				PROVISIONING_PROFILE_SPECIFIER = "Bret's wildcard dist profile";
+				PROVISIONING_PROFILE = "4b9bb199-85e8-4481-9f62-47ef1d7bdffb";
+				PROVISIONING_PROFILE_SPECIFIER = "Bret's wildcard adhoc profile";
 				SPRITEKIT_TEXTURE_ATLAS_OUTPUT = YES;
 				WRAPPER_EXTENSION = app;
 			};
@@ -533,8 +533,8 @@
 				GCC_PREFIX_HEADER = "m2048/m2048-Prefix.pch";
 				INFOPLIST_FILE = "m2048/m2048-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "1a4f430f-b5a9-4a0a-be9f-84ff122d2d96";
-				PROVISIONING_PROFILE_SPECIFIER = "Bret's wildcard dist profile";
+				PROVISIONING_PROFILE = "4b9bb199-85e8-4481-9f62-47ef1d7bdffb";
+				PROVISIONING_PROFILE_SPECIFIER = "Bret's wildcard adhoc profile";
 				SPRITEKIT_TEXTURE_ATLAS_OUTPUT = YES;
 				WRAPPER_EXTENSION = app;
 			};
